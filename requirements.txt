@@ -1,0 +1,4 @@
+python
+open cv
+numpy
+haar cascade
